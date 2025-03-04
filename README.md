@@ -24,11 +24,11 @@ This project provides BNB Chain agents that:
 
 ## Features
 
-  ✅ Send BNB transactions on Testnet
-  ✅ Verify transaction status using [BscScan API](https://docs.bscscan.com/api-endpoints/accounts)
-  ✅ Securely store wallet credentials in .env file
-  ✅ Asynchronous agent communication
-  ✅ Monitor transactions for a given wallet
+  ✅ Send BNB transactions on Testnet<br />
+  ✅ Verify transaction status using [BscScan API](https://docs.bscscan.com/api-endpoints/accounts)<br />
+  ✅ Securely store wallet credentials in .env file<br />
+  ✅ Asynchronous agent communication<br />
+  ✅ Monitor transactions for a given wallet<br />
 
 ## Requirements
 
