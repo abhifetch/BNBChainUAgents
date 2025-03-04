@@ -4,18 +4,14 @@ This repository contains BNB transaction agents built using uAgents and Web3.py.
 
 ## Table of Contents
 
-- Overview
-- Features
-- Requirements
-- Installation
-- Environment Variables
-- Usage
-- Agents
-  - Agent 1 - Transaction Sender
-  - Agent 2 - Transaction Validator
-- Monitor Agent (Future Work)
-- Wallet Creation
-- Future Enhancements
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Environment Variables](#installation)
+- [Usage](#usage)
+- [Wallet Creation](#wallet-creation)
+- [Output-Sample](#output-sample)
 
 ## Overview
 
