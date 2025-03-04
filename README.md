@@ -19,7 +19,7 @@ This project provides BNB Chain agents that:
 
 1. Send BNB Transactions using private keys securely stored in environment variables.
 2. Verify Transaction Status via the BscScan API.
-3. Monitor Wallet Activity (planned feature).
+3. Monitor Wallet Activity.
 4. Interact using uAgents framework for decentralized AI agent communication.
 
 ## Features
