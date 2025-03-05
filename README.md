@@ -111,6 +111,8 @@ print(f"Private Key: {new_account.key.hex()}")
 
 ⚠️ **Save your private key securely! Do not share it or commit it to GitHub.**
 
+To get testnet [faucet](https://www.bnbchain.org/en/testnet-faucet) , join the [Discord](https://discord.com/channels/789402563035660308/1099937267021250560) and follow the steps on the pinned message.
+
 ## Output Sample
 
 ### Agent1.py
