@@ -39,9 +39,10 @@ This project provides BNB Chain agents that:
 
 ## Installation
 
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository and to BNB Chain Agents Directory
 ```
 git clone https://github.com/your-repo/bnb-chain-agents.git
+cd BNBChainUAgents
 ```
 
 2️⃣ Create a Virtual Environment
