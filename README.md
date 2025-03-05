@@ -1,4 +1,4 @@
-# BNBChainUAgents
+# BNB Chain uAgents
 
 This repository contains BNB transaction agents built using uAgents and Web3.py. The agents facilitate BNB transfers, transaction monitoring, and status verification on the BNB Testnet.
 
